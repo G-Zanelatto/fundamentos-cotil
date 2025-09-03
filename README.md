@@ -1,2 +1,6 @@
-# fundamentos-cotil
-Um repositório para os arquivos da disciplina de Fundamentos.
+## Sobre Mim
+
+Olá! Meu nome é **Gabriel**.  
+Sou apaixonado por programação e adoro aprender coisas novas.  
+Atualmente estou explorando o mundo do desenvolvimento de software.
+EOF
