@@ -7,10 +7,10 @@ Atualmente estou explorando o mundo do desenvolvimento de software.
 ### Habilidades
 
 - **Programação**  
-- *Trabalho em equipe*  
+- *HTML*  
 - [Git e GitHub](https://docs.github.com/)  
-- Linux  
-- Resolução de problemas  
+- JavaScript  
+- Node.js  
 
 ## Meu Primeiro Programa
 
