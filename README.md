@@ -1,16 +1,15 @@
 ## Sobre Mim
 
 Olá! Meu nome é **Gabriel**.  
-Sou apaixonado por *tecnologia* e adoro aprender coisas novas.  
-Atualmente estou explorando o mundo do desenvolvimento de software.
+Sou estudante de Desenvolvimento de Sistemas do *COTIL*-.
 
 ### Habilidades
 
 - **Programação**  
-- *HTML*  
+- *NODE.JS*  
 - [Git e GitHub](https://docs.github.com/)  
-- JavaScript  
-- Node.js  
+- HTML  
+- Resolução de problemas  
 
 ## Meu Primeiro Programa
 
